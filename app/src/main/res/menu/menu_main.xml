@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_lv"
+        android:title="线性布局 - 纵向"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lo"
+        android:title="线性布局 - 横向"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_gv"
+        android:title="网格布局 - 纵向"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_go"
+        android:title="网格布局 - 横向"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sv"
+        android:title="瀑布流布局 - 横向"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_so"
+        android:title="瀑布流布局 - 横向"
+        app:showAsAction="never" />
+</menu>
